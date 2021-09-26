@@ -1,0 +1,41 @@
+body
+{
+    background-image: url("./IPL-2018-Captains.jpg");
+    background-size: cover;
+    font: normal 16px/1.5 "Helvetica Neue", sans-serif;
+    overflow-x: hidden;
+}
+ul {
+ 
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  ul li {
+    list-style: none;
+  }
+  ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    font-size: 0.875em;
+    text-decoration: none;
+    padding: 1em;
+    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+  ul li a:hover {
+    border-bottom: 3px solid #fff;
+  }
+  #contai
+  {
+    text-align: center;
+  }
+  .pcontainer
+  {
+    background: linear-gradient(to bottom, #16222a, #4e4376);
+  
+    color: white;
+    padding: 100px 150px 100px 100px;
+    position: center;
+  }
